@@ -1,5 +1,5 @@
 ---
-title: Interviewing
+title: Job Search Navigation
 weight: 0
 excerpt: These are some of my active projects.
 seo:
@@ -11,6 +11,8 @@ seo:
 template: docs
 ---
 # Navigation
+
+
 
 
 
@@ -158,3 +160,4 @@ template: docs
 
 *   [🖥 JS](https://bryan-guner.gitbook.io/job-search/interviewing/js)
 
+#
